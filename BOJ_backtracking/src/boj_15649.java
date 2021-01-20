@@ -10,7 +10,7 @@ public class boj_15649 {
          for(int i=0;i<M;i++) 
             System.out.print(answer[i]+" ");
          System.out.println();
-         return;
+         return; 
          
       }
       
