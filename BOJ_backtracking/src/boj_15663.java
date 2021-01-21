@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class boj_15663 {
     static int N, M;
     static int[] nums, answer;
